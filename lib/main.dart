@@ -4,7 +4,7 @@ import 'package:timeiptv/theme.dart';
 import 'utils/singleton.dart';
 import 'router.dart';
 
-// main app server
+// main app
 
 void main() {
   runApp(
