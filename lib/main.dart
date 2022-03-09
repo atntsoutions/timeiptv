@@ -4,6 +4,8 @@ import 'package:timeiptv/theme.dart';
 import 'utils/singleton.dart';
 import 'router.dart';
 
+// main app
+
 void main() {
   runApp(
     ChangeNotifierProvider<ThemeSelector>(
